@@ -1,0 +1,7 @@
+"Homo sapiens"[Organism] AND C2H2[Domain Name] 
+"Homo sapiens"[Organism] AND CCHC[Domain Name] 
+"Homo sapiens"[Organism] AND C2HC[Domain Name] 
+"Homo sapiens"[Organism] AND C2HC5[Domain Name] 
+"Homo sapiens"[Organism] AND TF_Zn_Ribbon[Domain Name] 
+"Homo sapiens"[Organism] AND Zn_clus[Domain Name] 
+classes of ZFP: https://en.wikipedia.org/wiki/Zinc_finger
