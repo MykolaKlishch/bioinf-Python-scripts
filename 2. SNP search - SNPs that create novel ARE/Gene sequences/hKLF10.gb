@@ -1,0 +1,264 @@
+LOCUS       NM_001032282            3273 bp    mRNA    linear   PRI 06-MAY-2017
+DEFINITION  Homo sapiens Kruppel like factor 10 (KLF10), transcript variant 2,
+            mRNA.
+ACCESSION   NM_001032282
+VERSION     NM_001032282.3
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3273)
+  AUTHORS   Hu ZC, Shi F, Liu P, Zhang J, Guo D, Cao XL, Chen CF, Qu SQ, Zhu JY
+            and Tang B.
+  TITLE     TIEG1 Represses Smad7-Mediated Activation of TGF-beta1/Smad
+            Signaling in Keloid Pathogenesis
+  JOURNAL   J. Invest. Dermatol. 137 (5), 1051-1059 (2017)
+   PUBMED   28108300
+  REMARK    GeneRIF: the findings show that TIEG1 is highly expressed in human
+            keloids and that it directly binds and represses Smad7
+            promoter-mediated activation of TGF-beta/Smad2 signaling
+REFERENCE   2  (bases 1 to 3273)
+  AUTHORS   Leduc C, Sobilo L, Toumi H, Mondon P, Lespessailles E, Ossant F,
+            Kurfurst R and Pichon C.
+  TITLE     TGF-beta-induced early gene-1 overexpression promotes oxidative
+            stress protection and actin cytoskeleton rearrangement in human
+            skin fibroblasts
+  JOURNAL   Biochim. Biophys. Acta 1860 (6), 1071-1078 (2016)
+   PUBMED   26922828
+  REMARK    GeneRIF: TIEG-1 overexpression in normal human skin fibroblasts
+            results in improved resistance to oxidative stress
+REFERENCE   3  (bases 1 to 3273)
+  AUTHORS   Sobilo L, Kurfurst R, Loubens V, Martin M, Mondon P, Jeanneton O,
+            Heusele C, Ossant F, Lespessailles E, Toumi H, Crabbe L and
+            Schnebert S.
+  TITLE     Impact of exogenous stress on TGF-beta inducible early gene 1 in
+            human skin cells
+  JOURNAL   Exp. Dermatol. 24 (11), 892-894 (2015)
+   PUBMED   26119394
+  REMARK    GeneRIF: photoexposure decreases expression in fibroblasts and
+            keratinocytes
+REFERENCE   4  (bases 1 to 3273)
+  AUTHORS   Camacho-Vanegas O, Till J, Miranda-Lorenzo I, Ozturk B, Camacho SC
+            and Martignetti JA.
+  TITLE     Shaking the family tree: identification of novel and biologically
+            active alternatively spliced isoforms across the KLF family of
+            transcription factors
+  JOURNAL   FASEB J. 27 (2), 432-436 (2013)
+   PUBMED   23134681
+REFERENCE   5  (bases 1 to 3273)
+  AUTHORS   Fautsch MP, Vrabel A, Subramaniam M, Hefferen TE, Spelsberg TC and
+            Wieben ED.
+  TITLE     TGFbeta-inducible early gene (TIEG) also codes for early growth
+            response alpha (EGRalpha): evidence of multiple transcripts from
+            alternate promoters
+  JOURNAL   Genomics 51 (3), 408-416 (1998)
+   PUBMED   9721211
+REFERENCE   6  (bases 1 to 3273)
+  AUTHORS   Tau KR, Hefferan TE, Waters KM, Robinson JA, Subramaniam M, Riggs
+            BL and Spelsberg TC.
+  TITLE     Estrogen regulation of a transforming growth factor-beta inducible
+            early gene that inhibits deoxyribonucleic acid synthesis in human
+            osteoblasts
+  JOURNAL   Endocrinology 139 (3), 1346-1353 (1998)
+   PUBMED   9492071
+REFERENCE   7  (bases 1 to 3273)
+  AUTHORS   Subramaniam M, Hefferan TE, Tau K, Peus D, Pittelkow M, Jalal S,
+            Riggs BL, Roche P and Spelsberg TC.
+  TITLE     Tissue, cell type, and breast cancer stage-specific expression of a
+            TGF-beta inducible early transcription factor gene
+  JOURNAL   J. Cell. Biochem. 68 (2), 226-236 (1998)
+   PUBMED   9443078
+REFERENCE   8  (bases 1 to 3273)
+  AUTHORS   Tachibana I, Imoto M, Adjei PN, Gores GJ, Subramaniam M, Spelsberg
+            TC and Urrutia R.
+  TITLE     Overexpression of the TGFbeta-regulated zinc finger encoding gene,
+            TIEG, induces apoptosis in pancreatic epithelial cells
+  JOURNAL   J. Clin. Invest. 99 (10), 2365-2374 (1997)
+   PUBMED   9153278
+REFERENCE   9  (bases 1 to 3273)
+  AUTHORS   Subramaniam M, Harris SA, Oursler MJ, Rasmussen K, Riggs BL and
+            Spelsberg TC.
+  TITLE     Identification of a novel TGF-beta-regulated gene encoding a
+            putative zinc finger protein in human osteoblasts
+  JOURNAL   Nucleic Acids Res. 23 (23), 4907-4912 (1995)
+   PUBMED   8532536
+REFERENCE   10 (bases 1 to 3273)
+  AUTHORS   Blok LJ, Grossmann ME, Perry JE and Tindall DJ.
+  TITLE     Characterization of an early growth response gene, which encodes a
+            zinc finger transcription factor, potentially involved in cell
+            cycle regulation
+  JOURNAL   Mol. Endocrinol. 9 (11), 1610-1620 (1995)
+   PUBMED   8584037
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from DA756360.1, S81439.1,
+            BC095399.1, AP002851.2 and BQ575313.1.
+            On Jun 25, 2013 this sequence version replaced gi:208879459.
+            
+            Summary: This gene encodes a member of a family of proteins that
+            feature C2H2-type zinc finger domains. The encoded protein is a
+            transcriptional repressor that acts as an effector of transforming
+            growth factor beta signaling. Activity of this protein may inhibit
+            the growth of cancers, particularly pancreatic cancer. Alternative
+            splicing results in multiple transcript variants. [provided by
+            RefSeq, Jun 2013].
+            
+            Transcript Variant: This variant (2) differs in the 5' UTR, lacks a
+            portion of the 5' coding region, and initiates translation at an
+            alternate start codon, compared to variant 1. The encoded isoform
+            (b) is shorter and has a distinct N-terminus, compared to isoform
+            a.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: S81439.1, BC011538.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA2146236, SAMEA2154529
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-24                DA756360.1         1-24
+            25-1358             S81439.1           1-1334
+            1359-2548           BC095399.1         1022-2211
+            2549-2549           AP002851.2         126626-126626       c
+            2550-3249           BC095399.1         2213-2912
+            3250-3273           BQ575313.1         1-24                c
+FEATURES             Location/Qualifiers
+     source          1..3273
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="8"
+                     /map="8q22.3"
+     gene            1..3273
+                     /gene="KLF10"
+                     /gene_synonym="EGR-alpha; EGRA; TIEG; TIEG1"
+                     /note="Kruppel like factor 10"
+                     /db_xref="GeneID:7071"
+                     /db_xref="HGNC:HGNC:11810"
+                     /db_xref="MIM:601878"
+     exon            1..495
+                     /gene="KLF10"
+                     /gene_synonym="EGR-alpha; EGRA; TIEG; TIEG1"
+                     /inference="alignment:Splign:1.39.8"
+     misc_feature    475..477
+                     /gene="KLF10"
+                     /gene_synonym="EGR-alpha; EGRA; TIEG; TIEG1"
+                     /note="upstream in-frame stop codon"
+     CDS             493..1902
+                     /gene="KLF10"
+                     /gene_synonym="EGR-alpha; EGRA; TIEG; TIEG1"
+                     /note="isoform b is encoded by transcript variant 2;
+                     krueppel-like factor 10; TGFB-inducible early growth
+                     response protein 1; transforming growth
+                     factor-beta-inducible early growth response protein 1;
+                     zinc finger transcription factor TIEG; early growth
+                     response-alpha"
+                     /codon_start=1
+                     /product="Krueppel-like factor 10 isoform b"
+                     /protein_id="NP_001027453.1"
+                     /db_xref="CCDS:CCDS47905.1"
+                     /db_xref="GeneID:7071"
+                     /db_xref="HGNC:HGNC:11810"
+                     /db_xref="MIM:601878"
+                     /translation="MEERMEMISERPKESMYSWNKTAEKSDFEAVEALMSMSCSWKSD
+                     FKKYVENRPVTPVSDLSEEENLLPGTPDFHTIPAFCLTPPYSPSDFEPSQVSNLMAPA
+                     PSTVHFKSLSDTAKPHIAAPFKEEEKSPVSAPKLPKAQATSVIRHTADAQLCNHQTCP
+                     MKAASILNYQNNSFRRRTHLNVEAARKNIPCAAVSPNRSKCERNTVADVDEKASAALY
+                     DFSVPSSETVICRSQPAPVSPQQKSVLVSPPAVSAGGVPPMPVICQMVPLPANNPVVT
+                     TVVPSTPPSQPPAVCPPVVFMGTQVPKGAVMFVVPQPVVQSSKPPVVSPNGTRLSPIA
+                     PAPGFSPSAAKVTPQIDSSRIRSHICSHPGCGKTYFKSSHLKAHTRTHTGEKPFSCSW
+                     KGCERRFARSDELSRHRRTHTGEKKFACPMCDRRFMRSDHLTKHARRHLSAKKLPNWQ
+                     MEVSKLNDIALPPTPAPTQ"
+     exon            496..729
+                     /gene="KLF10"
+                     /gene_synonym="EGR-alpha; EGRA; TIEG; TIEG1"
+                     /inference="alignment:Splign:1.39.8"
+     exon            730..1642
+                     /gene="KLF10"
+                     /gene_synonym="EGR-alpha; EGRA; TIEG; TIEG1"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1643..3257
+                     /gene="KLF10"
+                     /gene_synonym="EGR-alpha; EGRA; TIEG; TIEG1"
+                     /inference="alignment:Splign:1.39.8"
+     STS             2970..3083
+                     /gene="KLF10"
+                     /gene_synonym="EGR-alpha; EGRA; TIEG; TIEG1"
+                     /standard_name="A006S39"
+                     /db_xref="UniSTS:42147"
+     STS             3109..3247
+                     /gene="KLF10"
+                     /gene_synonym="EGR-alpha; EGRA; TIEG; TIEG1"
+                     /standard_name="SGC30492"
+                     /db_xref="UniSTS:22328"
+     regulatory      3230..3235
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="KLF10"
+                     /gene_synonym="EGR-alpha; EGRA; TIEG; TIEG1"
+     polyA_site      3257
+                     /gene="KLF10"
+                     /gene_synonym="EGR-alpha; EGRA; TIEG; TIEG1"
+ORIGIN      
+        1 attgaggtta gggcggcccc atccgtcggt ctccgccagc taggatctcc cccgccgtcc
+       61 gcccccgccc ctcgtctgcc tcccccgccc gcgcctccgc ccgcgcttcc ctttcctgcc
+      121 tcgcgcccca ctccctttcc tcccctccct gtttcccttc ctgtccttcc cagctcacgc
+      181 tctctttccc tgccgcctgc ctttcttttt tccttttttt gcattggcgt cttggggctg
+      241 ttacacacac gcgcgctgtc cattgcagct tacataaagg cgggcgcgat tatgcaatta
+      301 tattgttagc gatatttcaa gagcaatggc tcgttttctt aggatttcaa cacgaaggca
+      361 tcatgcattt ttgaaaaact agtattgaga ataatacctt gcaacgtaaa gaatgttttt
+      421 tggtattttt acacaatctc tactttgacc aaacgagtct ggacagtttt cttttaatgg
+      481 aaaataggag aaatggagga aagaatggaa atgatttctg aaaggccaaa agagagtatg
+      541 tattcctgga acaaaactgc agagaaaagt gattttgaag ctgtagaagc acttatgtca
+      601 atgagctgca gttggaagtc tgattttaag aaatacgttg aaaacagacc tgttacacca
+      661 gtatctgatt tgtcagagga agagaatctg cttccgggaa cacctgattt tcatacaatc
+      721 ccagcatttt gtttgactcc accttacagt ccttctgact ttgaaccctc tcaagtgtca
+      781 aatctgatgg caccagcgcc atctactgta cacttcaagt cactctcaga tactgccaaa
+      841 cctcacattg ccgcaccttt caaagaggaa gaaaagagcc cagtatctgc ccccaaactc
+      901 cccaaagctc aggcaacaag tgtgattcgt catacagctg atgcccagct atgtaaccac
+      961 cagacctgcc caatgaaagc agccagcatc ctcaactatc agaacaattc ttttagaaga
+     1021 agaacccacc taaatgttga ggctgcaaga aagaacatac catgtgccgc tgtgtcacca
+     1081 aacagatcca aatgtgagag aaacacagtg gcagatgttg atgagaaagc aagtgctgca
+     1141 ctttatgact tttctgtgcc ttcctcagag acggtcatct gcaggtctca gccagcccct
+     1201 gtgtccccac aacagaagtc agtgttggtc tctccacctg cagtatctgc agggggagtg
+     1261 ccacctatgc cggtcatctg ccagatggtt ccccttcctg ccaacaaccc tgttgtgaca
+     1321 acagtcgttc ccagcactcc tcccagccag ccaccagccg tttgcccccc tgttgtgttc
+     1381 atgggcacac aagtccccaa aggcgctgtc atgtttgtgg taccccagcc cgttgtgcag
+     1441 agttcaaagc ctccggtggt gagcccgaat ggcaccagac tctctcccat tgcccctgct
+     1501 cctgggtttt ccccttcagc agcaaaagtc actcctcaga ttgattcatc aaggataagg
+     1561 agtcacatct gtagccaccc aggatgtggc aagacatact ttaaaagttc ccatctgaag
+     1621 gcccacacga ggacgcacac aggagaaaag cctttcagct gtagctggaa aggttgtgaa
+     1681 aggaggtttg cccgttctga tgaactgtcc agacacaggc gaacccacac gggtgagaag
+     1741 aaatttgcgt gccccatgtg tgaccggcgg ttcatgagga gtgaccattt gaccaagcat
+     1801 gcccggcgcc atctatcagc caagaagcta ccaaactggc agatggaagt gagcaagcta
+     1861 aatgacattg ctctacctcc aacccctgct cccacacagt gacagaccgg aaagtgaaga
+     1921 gtcagaacta actttggtct cagcgggagc cagtggtgat gtaaaaatgc ttccactgca
+     1981 agtctgtggc cccacaacgt gggcttaaag cagaagcccc acagcctggc acgaaggccc
+     2041 cgcctgggtt aggtgactaa aagggcttcg gccacaggca ggtcacagaa aggcaggttt
+     2101 catttcttat cacataagag agatgagaaa gcttttattc ctttgaatat tttttgaagg
+     2161 tttcagatga ggtcaacaca ggtagcacag attttgaatc tgtgtgcata tttgttactt
+     2221 tacttttgct gtttatactt gagaccaact tttcaatgtg attcttctaa agcactggtt
+     2281 tcaagaatat ggaggctgga aggaaataaa cattacggta cagacatgga gatgtaaaat
+     2341 gagtttgtat tattacaaat attgtcatct ttttctagag ttatcttctt tattattcct
+     2401 agtctttcca gtcaacatcg tggatgtagt gattaaatat atctagaact atcattttta
+     2461 cactattgtg aatatttgga attgaacgac tgtatattgc taagagggcc caaagaattg
+     2521 gaatcctcct taatttaatt gctttgaagc atagctacaa tttgtttttg catttttgtt
+     2581 ttgaaagttt aacaaatgac tgtatctagg catttcatta tgctttgaac tttagtttgc
+     2641 ctgcagtttc ttgtgtagat ttgaaaattg tataccaatg tgttttctgt agactctaag
+     2701 atacactgca ctttgtttag aaaaaaaact gaagatgaaa tatatattgt aaagaaggga
+     2761 tattaagaat cttagataac ttcttgaaaa agatggctta tgtcatcagt aaagtacctt
+     2821 tatgttatga ggatataatg tgtgctttat tgaattagaa aattagtgac cattattcac
+     2881 aggtggacaa atgttgatgt tgtcctgtta atttataggc gttttttggg gatgtggagg
+     2941 tagttgggta gaaaaattat tagaacattc acttttgtta acagtatttc tcttttattc
+     3001 tgttatatag tggatgatat acacagtggc aaaacaaaag tacattgctt aaaatatata
+     3061 gtgaaaaatg tcactatatc ttcccattta acattgtttt tgtatattgg gtgtagattt
+     3121 ctgacatcaa aacttggacc cttggaaaac aaaagtttta attaaaaaaa atccttgtga
+     3181 cttacaattt gcacaatatt tcttttgttg tactttatat cttgtttaca ataaagaatt
+     3241 ccctttggta tatggaaaaa aaaaaaaaaa aaa
+//
+
