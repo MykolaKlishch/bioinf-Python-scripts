@@ -1,0 +1,20 @@
+>gnl|dbSNP|rs1383817958 rs=1383817958|pos=26|len=51|taxid=9606|mol="genomic"|class=snp|alleles="A/C"|build=151|suspect=?
+TACCCAACTA CCTCCACATC CCCAA 
+M
+AAACGCCTAT AAATTAACAG GACAA 
+
+>gnl|dbSNP|rs1289224828 rs=1289224828|pos=26|len=51|taxid=9606|mol="genomic"|class=in-del|alleles="-/A"|build=151|suspect=?
+TCTACCCAAC TACCTCCACA TCCCC 
+N
+AAAAAACGCC TATAAATTAA CAGGA 
+
+>gnl|dbSNP|rs1239680759 rs=1239680759|pos=26|len=51|taxid=9606|mol="genomic"|class=snp|alleles="A/C"|build=151|suspect=?
+TCTACCCAAC TACCTCCACA TCCCC 
+M
+AAAAACGCCT ATAAATTAAC AGGAC 
+
+>gnl|dbSNP|rs992904354 rs=992904354|pos=26|len=51|taxid=9606|mol="genomic"|class=snp|alleles="A/G"|build=150|suspect=?
+CCCAACTACC TCCACATCCC CAAAA 
+R
+ACGCCTATAA ATTAACAGGA CAACA 
+
